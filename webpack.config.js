@@ -26,7 +26,7 @@ module.exports = {
     },
     mode: 'production',
     output: {
-        path: path.resolve(__dirname, 'hosted'),
+        path: path.resolve(__dirname, 'frontFacing'),
         filename: '[name]bundle.js',
     },
 };
